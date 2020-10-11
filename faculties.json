@@ -1,0 +1,20 @@
+[
+	{ "id": "1", "name": "Dharma Bums", "department": "CSE", "assignedCourses": [], "priorityCourses": [] },
+	{ "id": "2", "name": "Arbitrary Stupid Goal", "department": "CSE", "assignedCourses": [], "priorityCourses": [] },
+	{ "id": "3", "name": "Nikhil", "department": "CSE", "assignedCourses": [], "priorityCourses": [] },
+	{ "id": "4", "name": "Nikhil", "department": "Machenical", "assignedCourses": [], "priorityCourses": [] },
+	{
+		"id": "5",
+		"name": "nikhil",
+		"department": "CSE",
+		"assignedCourses": [ 1, 3, 4, 5 ],
+		"priorityCourses": [ 1, 2, 3, 4, 5 ]
+	},
+	{ "id": "6", "name": "Nikhil", "department": "CSE", "assignedCourses": [], "priorityCourses": [] },
+	{ "id": "7", "name": "Nikhil Sati", "department": "ECE", "assignedCourses": [], "priorityCourses": [] },
+	{ "id": "8", "name": "Nikhil Sati", "department": "", "assignedCourses": [], "priorityCourses": [] },
+	{ "id": "9", "name": "Nikhil Sati", "department": "", "assignedCourses": [], "priorityCourses": [] },
+	{ "id": "10", "name": "Nikhil Sati", "department": "", "assignedCourses": [], "priorityCourses": [] },
+	{ "id": "11", "name": "", "department": "", "assignedCourses": [], "priorityCourses": [] },
+	{ "id": "12", "name": "Nikhil Sati", "department": "CSE", "assignedCourses": [], "priorityCourses": [] }
+]

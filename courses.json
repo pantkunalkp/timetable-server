@@ -1,0 +1,22 @@
+[{
+        "id": 1,
+        "name": "Math",
+        "courseCode": "MATH121",
+        "semester": 5,
+        "department": "CSE"
+    },
+    {
+        "id": 2,
+        "name": "Programming",
+        "courseCode": "BCSE1020",
+        "semester": 1,
+        "department": "CSE"
+    },
+    {
+        "id": 1,
+        "name": "Operating",
+        "courseCode": "BSCS1020",
+        "semester": 4,
+        "department": "CSE"
+    }
+]
